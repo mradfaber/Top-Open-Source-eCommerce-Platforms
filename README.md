@@ -1,8 +1,6 @@
 # Top Open Source eCommerce Platforms
 A list of the best Open Source eCommerce Platforms on GitHub by the number of stars. Plus a cool chart and some commentary below the table. Feel free to submit a PR or comment!
 
-![Top Open Source eCommerce Platforms](https://vendo-production-res.cloudinary.com/image/upload/w_1920/q_auto/v1734101176/docs/open-source-ecommerce-github-star-history-20241128_ckonm5.webp)
-
 | Stars | Name | Repo description  | Framework |
 | ------------- | ------------- | ------------- | ------------- |
 | 26.4k  | [Medusa](https://github.com/medusajs/medusa)  | The world's most flexible commerce platform.  | Express.js  |
@@ -45,6 +43,28 @@ Data for the above table was taken from the [#ecommerce](https://github.com/topi
 - API-first architecture: is it well documented
 - Support: is it DIY or is there support
 - Contact: can you get in touch with fellow devs
+
+## Open-source eCommerce charts
+
+**Star history for the Top 10 Open Source eCommerce Platforms**
+
+Maturity vs Framework Popularity vs Regional Popularity
+
+![Top Open Source eCommerce Platforms](https://vendo-production-res.cloudinary.com/image/upload/w_1920/q_auto/v1734101176/docs/open-source-ecommerce-github-star-history-20241128_ckonm5.webp)
+
+**Google search volume for Open Source vs Github Stars - United States** 
+
+Gold stars matter more in the US...
+
+![Open Source vs Github Stars](https://vendo-production-res.cloudinary.com/image/upload/v1734106714/docs/Open_Source_eCommerce_Platforms_-_United_States_e9xoky.png)
+
+
+**Google search volume for Open Source vs Github Stars - Worldwide**
+
+...than anywhere else in the world.
+
+![Open Source vs Github Stars](https://vendo-production-res.cloudinary.com/image/upload/w_1920/q_auto/v1734106714/docs/Open_Source_eCommerce_Platforms_-_worldwide_ainy1t.png)
+
 
 ## Thanks!
 
